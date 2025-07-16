@@ -36,7 +36,7 @@ The core philosophy of AxiomPy is to expose the inner workings of mathematical a
 You can install AxiomPy directly from PyPI:
 
 ```bash
-pip install axiompy
+pip install axiom-math
 ```
 
 ## Usage
